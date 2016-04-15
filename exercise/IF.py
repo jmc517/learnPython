@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-a=input("请输入一个数字")
+a=input("输入一个数字")
 if a>=90:
     print  ("优秀 %d!" %a)
 elif a>=70 :
